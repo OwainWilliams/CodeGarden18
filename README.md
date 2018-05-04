@@ -9,10 +9,14 @@ Even if I have already met you in real life, please add your name as the more na
 ## UPDATE
 The list will close on 7th May - This allows the printers plenty time to print this epic Tshirt. 
 
+## UPDATE 2
+
+If you aren't on twitter but would still like to be on the Tshirt, feel free to add just your name. If you are on twitter and you've added your name to this list, feel free to follow me @ScottishCoder if you aren't already and I'll be following everyone that adds their name to the list as you obviously have an Umbraco interest :) 
+
 
 | Name                         | Twitter Handle    |
 |------------------------------|-------------------|
-| Owain Williams               | [@ScottishCoder](https://twitter.com/ScottishCoder)    |
+| Owain Williams  (me)         | [@ScottishCoder](https://twitter.com/ScottishCoder)    |
 | Callum Whyte                 | [@callumbwhyte](https://twitter.com/callumbwhyte)     |
 | Warren Buckley               | [@warrenbuckley](https://twitter.com/warrenbuckley)    |
 | Arnold Visser                | [@aim24](https://twitter.com/aim24)            |
