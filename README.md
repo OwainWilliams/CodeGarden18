@@ -51,7 +51,7 @@ And if we have already met - put your name down anyway, would be great to see yo
 | Hendy Racher                 | [@hendyracher](https://twitter.com/hendyracher) |
 | Jon Humphrey                 | [@precisioncoding](https://twitter.com/precisioncoding) |
 | Morten Bock                  | [@mortenbock](https://twitter.com/mortenbock) |
-| Mark McDonald                  | [@MarkMcD27](https://twitter.com/MarkMcD27) |
+| Mark McDonald                | [@MarkMcD27](https://twitter.com/MarkMcD27) |
 | Emma Burstow                 | [@emaburst](https://twitter.com/emaburst) |
 | Mike Masey                   | [@MikeMasey](https://twitter.com/MikeMasey) |
 | Morten Christensen           | [@sitereactor](https://twitter.com/sitereactor) |
@@ -66,5 +66,5 @@ And if we have already met - put your name down anyway, would be great to see yo
 | Lee Kelleher                 | [@leekelleher](https://twitter.com/leekelleher) |
 | Matt Brailsford              | [@mattbrailsford](https://twitter.com/mattbrailsford) 
 | Vera Green                   | [@GreenVera22](https://twitter.com/GreenVera22)| 
-
+| Sven Geusens                 | [@Migaroez](https://twitter.com/Migaroez)| 
 
