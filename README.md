@@ -61,4 +61,4 @@ If you aren't on twitter but would still like to be on the Tshirt, feel free to 
 | Chris Houston                | [@readingdancer](https://twitter.com/readingdancer) |
 | Carole Logan                 | [@crgrieve](https://twitter.com/crgrieve) |
 | Søren Mastrup                | [@mastrup](https://twitter.com/mastrup) |
-
+| Vera Green                   | [@GreenVera22](https://twitter.com/GreenVera22)| 
