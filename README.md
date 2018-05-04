@@ -55,4 +55,5 @@ The list will close on 7th May - This allows the printers plenty time to print t
 | Damiaan Peeters              | [@dampeebe](https://twitter.com/dampeebe) |
 | Chris Houston                | [@readingdancer](https://twitter.com/readingdancer) |
 | Carole Logan                 | [@crgrieve](https://twitter.com/crgrieve) |
+| Søren Mastrup                | [@mastrup](https://twitter.com/mastrup) |
 
