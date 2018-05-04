@@ -36,6 +36,7 @@ The list will close on 7th May - This allows the printers plenty time to print t
 | Nik                          | [@HotChilliLtd](https://twitter.com/HotChilliLtd) |
 | Rasmus Fjord                 | [@rasmusfjord](https://twitter.com/Rasmusfjord) |
 | Jesper Mayntzhusen           | [@JesperMayn](https://twitter.com/JesperMayn) |
+| Jeric Yuen                   | [@jericyuen](https://twitter.com/jericyuen) |
 | Ed Parry                     | [@edparry](https://twitter.com/edparry) |
 | Mikkel Holck Madsen          | [@mikkelhm](https://twitter.com/mikkelhm) |
 | Lotte Pitcher                | [@lottepitcher](https://twitter.com/lottepitcher) |
