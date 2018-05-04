@@ -9,9 +9,11 @@ Even if I have already met you in real life, please add your name as the more na
 ## UPDATE
 The list will close on 7th May - This allows the printers plenty time to print this epic Tshirt. 
 
-## UPDATE 2
+## UPDATE 2.1
 
 If you aren't on twitter but would still like to be on the Tshirt, feel free to add just your name. If you are on twitter and you've added your name to this list, feel free to follow me @ScottishCoder if you aren't already and I'll be following everyone that adds their name to the list as you obviously have an Umbraco interest :) 
+
+And if we have already met - put your name down anyway, would be great to see you again at CG18. 
 
 
 | Name                         | Twitter Handle    |
