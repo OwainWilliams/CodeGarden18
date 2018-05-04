@@ -64,5 +64,7 @@ And if we have already met - put your name down anyway, would be great to see yo
 | Carole Logan                 | [@crgrieve](https://twitter.com/crgrieve) |
 | Søren Mastrup                | [@mastrup](https://twitter.com/mastrup) |
 | Lee Kelleher                 | [@leekelleher](https://twitter.com/leekelleher) |
-| Matt Brailsford              | [@mattbrailsford](https://twitter.com/mattbrailsford) |
+| Matt Brailsford              | [@mattbrailsford](https://twitter.com/mattbrailsford) 
+| Vera Green                   | [@GreenVera22](https://twitter.com/GreenVera22)| 
+
 
