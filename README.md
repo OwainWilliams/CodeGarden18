@@ -63,4 +63,5 @@ And if we have already met - put your name down anyway, would be great to see yo
 | Chris Houston                | [@readingdancer](https://twitter.com/readingdancer) |
 | Carole Logan                 | [@crgrieve](https://twitter.com/crgrieve) |
 | Søren Mastrup                | [@mastrup](https://twitter.com/mastrup) |
+| Lee Kelleher                 | [@leekelleher](https://twitter.com/leekelleher) |
 
