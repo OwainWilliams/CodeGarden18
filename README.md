@@ -1,4 +1,6 @@
-﻿# CodeGarden18
+
+
+# CodeGarden18
 I thought it would be interesting to pull together a list of people from social media who are going to CodeGarden this year. My plan would then be to try and meet each one and tick them off the list. 
 
 Just a bit of fun really. Please add your name below and I'll hopefully meet you in a couple of weeks time.
@@ -15,6 +17,8 @@ If you aren't on twitter but would still like to be on the Tshirt, feel free to 
 
 And if we have already met - put your name down anyway, would be great to see you again at CG18. 
 
+## UPDATE 3.0
+The list is now away to the printers - thanks everyone who has contributed to this :) See you at CG18!
 
 | Name                         | Twitter Handle    |
 |------------------------------|-------------------|
